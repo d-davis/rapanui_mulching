@@ -46,6 +46,8 @@ Data & File Overview
 ### File list:
 -- Supplemental_Document.pdf - R-markdown file of machine learning script developed to identify lithic mulching features from WorldView-3 satellite imagery.
 
+-- Supplemental_Code.R - R script contained in the Markdown file.
+
 -- Mulch_Estimation.zip -- zip folder containing a raster dataset with cleaned lithic mulching estimations for Rapa Nui. Data was produced using a Maximum Entropy algorithm and was manually evaluated to remove errors.
 
 -- Training_Data.zip -- zip folder containing shapefiles with training data used for machine learning classification of WorldView-3 satellite images.
