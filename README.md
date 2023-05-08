@@ -38,7 +38,7 @@ suggested: Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo
 
 
 ### Related publications:
-Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (In Review). High-resolution short-wave infrared imagery provides improved estimates of rock gardening on Rapa Nui (Easter Island). Submitted to Remote Sensing of Environment.
+Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (In Review). High-resolution short-wave infrared imagery provides improved estimates of rock gardening on Rapa Nui (Easter Island). Submitted to International Journal of Remote Sensing.
  
 Data & File Overview
 --------------------
