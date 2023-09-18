@@ -84,7 +84,7 @@ plot(train, col = colors[train$Class], pch = 19)
 
 ##CLASSIFY SWIR DATASET
 
-## Fit classifier (splitting training into 70\% training data, 30\% validation data)
+## Fit classifier (splitting training into 80\% training data, 20\% validation data)
 
 MaxEnt_SWIR       <- RStoolbox::superClass(SWIR_stk, trainData = train, responseCol = "Name", 
                                       algorithm = "maxent", tuneLength = 1, trainPartition = 0.8, filename = "MxEnt_v3.tif") 
@@ -104,7 +104,7 @@ RF_SWIR #Display model results, accuracy metrics, and confusion matrix
 
 ##CLASSIFY VNIR DATASET
 
-## Fit classifier (splitting training into 70\% training data, 30\% validation data)
+## Fit classifier (splitting training into 80\% training data, 20\% validation data)
 
 MaxEnt_VNIR       <- RStoolbox::superClass(SWIR_stk, trainData = train, responseCol = "Name", 
                                            algorithm = "maxent", tuneLength = 1, trainPartition = 0.8, filename = "MxEnt_v3.tif") 
@@ -123,7 +123,7 @@ RF_VNIR #Display model results, accuracy metrics, and confusion matrix
 
 ##CLASSIFY Pansharpened SWIR DATASET
 
-## Fit classifier (splitting training into 70\% training data, 30\% validation data)
+## Fit classifier (splitting training into 80\% training data, 20\% validation data)
 
 MaxEnt_PS       <- RStoolbox::superClass(SWIR_stk, trainData = train, responseCol = "Name", 
                                            algorithm = "maxent", tuneLength = 1, trainPartition = 0.8, filename = "MxEnt_v3.tif") 
