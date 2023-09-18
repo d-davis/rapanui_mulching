@@ -6,7 +6,7 @@ General Information
 
 ### Title:
 
-*Data and Code for "High-resolution short-wave infrared imagery provides improved estimates of rock gardening on Rapa Nui (Easter Island)"*
+*Data and Code for "High-resolution short-wave infrared imagery and machine learning classification improve estimates of rock gardening on Rapa Nui (Easter Island)"*
 
 ### Author Information:
 
