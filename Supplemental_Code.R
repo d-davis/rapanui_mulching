@@ -14,7 +14,7 @@ library(maptools)
 library(sp)
 
 #set working directory
-setwd("C:/Users/dylan/Downloads/Mosaic_PS_16bit")
+setwd("C:/path_to_files")
 
 
 #Open VNIR files
@@ -29,7 +29,7 @@ NIR2 <- raster::raster("MS_8b_rs.tif", band = 7)
 VNIR_stk <- raster::stack(B, G, Y, R, RE, NIR1, NIR2)
 
 #Set working directory
-setwd("C:/Users/dylan/Documents/School_Work/Rapa_Nui")
+setwd("C:path_to_files")
 
 #Load image files
 #SWIR
