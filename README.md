@@ -6,7 +6,7 @@ General Information
 
 ### Title:
 
-*Data and Code for "High-resolution short-wave infrared imagery and machine learning classification improve estimates of rock gardening on Rapa Nui (Easter Island)"*
+*Data and Code for "Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui (Easter Island)"*
 
 ### Author Information:
 
@@ -34,11 +34,11 @@ Sharing/Access Information
 <!-- Creative Commons Attribution 4.0 International (CC BY 4.0)  -->
 
 ### Recommended citation for the data:
-suggested: Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (2023). High-resolution short-wave infrared imagery provides improved estimates of rock gardening on Rapa Nui (Easter Island). Retrieved from https://github.com/d-davis/rapanui_mulching
+suggested: Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (2023). Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui (Easter Island). Retrieved from https://github.com/d-davis/rapanui_mulching
 
 
 ### Related publications:
-Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (n.d.). Tragedy of the commons or triumph of the scarce? Short-wave infrared remote sensing improves estimates of cultivation strategies on Rapa Nui (Easter Island), Chile. To be submitted to Science Advances.
+Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (n.d.). Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui (Easter Island). To be submitted to Science Advances.
  
 Data & File Overview
 --------------------
