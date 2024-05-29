@@ -38,7 +38,7 @@ suggested: Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo
 
 
 ### Related publications:
-Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (n.d.). Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui (Easter Island). To be submitted to Science Advances.
+Davis, D. S., R. J. DiNapoli, G. Pakarati, T. L. Hunt, and C. P. Lipo (2024). Island-wide characterization of agricultural production challenges the demographic collapse hypothesis for Rapa Nui (Easter Island). Science Advances. In Press. https://doi.org/10.1126/sciadv.ado1459
  
 Data & File Overview
 --------------------
